@@ -1,0 +1,28 @@
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.exe.config
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.exe
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.pdb
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program_06.Form1.resources
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program_06.Properties.Resources.resources
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.csproj.GenerateResource.cache
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.exe
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.pdb
+E:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.exe.config
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.exe
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.pdb
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.csprojResolveAssemblyReference.cache
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program_06.Form1.resources
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program_06.Properties.Resources.resources
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.csproj.GenerateResource.Cache
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.exe
+D:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.pdb
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.exe.config
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.exe
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\bin\Debug\Program 06.pdb
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.csprojAssemblyReference.cache
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program_06.Form1.resources
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program_06.Properties.Resources.resources
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.csproj.GenerateResource.cache
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.csproj.CoreCompileInputs.cache
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.exe
+G:\C#\Visual Studio 2017\Projects\Program 06\Program 06\Program 06\obj\Debug\Program 06.pdb
